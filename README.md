@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning integrated DAPP development on EVM using Solidity and Starkware (CAIRO)
+- 🔭 I’m currently working on iNFT, where dapps can generate revenue by promoting other dapps
+- 🤔 I’m looking for help with zkSync, Starkware and CAIRO
+- ⚡ Fun fact: I'm 21 years old and in my final year of Computer Science Engineering
+
+Looking forward to connecting with you gogoaaden@gmail.com
+
 <!--
 **aaden-v2/aaden-v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
